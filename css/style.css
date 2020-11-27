@@ -2062,7 +2062,7 @@ body {
     margin-bottom: 20px;
   }
   .formobile {
-    margin-top: 32px;
+    padding-top: 32px;
   }
   .formobile_img {
     display: none;
