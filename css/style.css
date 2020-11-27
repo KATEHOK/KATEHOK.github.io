@@ -2051,7 +2051,7 @@ body {
   .video_wrapper {
     width: 100%;
     left: 0px;
-    bottom: 80px;
+    top: -40px;
     -webkit-transform: scale(0.5);
             transform: scale(0.5);
   }
@@ -2218,7 +2218,7 @@ body {
 
 @media (max-width: 495px) {
   .video_wrapper {
-    bottom: 50px;
+    top: -30px;
     -webkit-transform: scale(0.4);
             transform: scale(0.4);
   }
@@ -2226,7 +2226,7 @@ body {
 
 @media (max-width: 445px) {
   .video_wrapper {
-    bottom: 32px;
+    top: -20px;
   }
 }
 
